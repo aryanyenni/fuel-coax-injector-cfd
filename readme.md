@@ -2,9 +2,11 @@
 
 ### Background
 
+---
 
 ### Problem Statement
 
+---
 
 ### Repo Structure
 ```
@@ -28,11 +30,15 @@ kerolox-injector-cfd
   └── 
 ```
 
+---
+
 ### Assumptions / Limitations
 
+---
 
 ### Results
 
+---
 
 ### Author
 Aryan Yenni - Propulsion Engineer, Georgia Institute of Technology
