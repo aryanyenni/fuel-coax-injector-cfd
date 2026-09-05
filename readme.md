@@ -29,9 +29,12 @@ kerolox-injector-cfd
 |   └── 
 │
 └── figures/
-  ├── 
-  ├── 
-  └── 
+  ├── plots/
+  │ ├── 
+  │ └──
+  └── scenes/
+
+
 ```
 
 ---
