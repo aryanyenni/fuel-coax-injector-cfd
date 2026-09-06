@@ -1,4 +1,5 @@
 ## CFD Analysis on Fuel and KeroLOX Injectors
+![GitHub repo stars](https://shields.io)
 
 ### Background
 Computation Fluid Dynamics (CFD) is a powerful commercial tool that supports all varieties of fluid flow simulations. This project includes forced internal flow simulations within fuel and KeroLOX swirl injector manifolds used onboard liquid rockets to highlight the capabilities of CFD.
