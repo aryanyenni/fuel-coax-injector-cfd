@@ -1,4 +1,4 @@
-## CFD Analysis on Fuel and KeroLOX Injectors
+## CFD Analysis on a KeroLOX Swirl Injector Manifold
 ![Status](https://shields.io/badge/status-complete-brightgreen)
 ![Star-CCM+](https://img.shields.io/badge/Simcenter_Star--CCM%2B-2606-blue)
 
