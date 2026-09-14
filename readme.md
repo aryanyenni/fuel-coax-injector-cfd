@@ -19,7 +19,7 @@ Sanity checks include a reasonable dP, continuity and momentum, and reasonable v
 fuel-coax-injector-cfd
 │
 ├── README.md
-├── presentation.pdf
+├── Fuel Manifold CFD.pdf
 │
 ├── fuel-manifold/
 │ └── star-ccm/
