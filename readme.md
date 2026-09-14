@@ -22,18 +22,14 @@ fuel-coax-injector-cfd
 ├── Fuel Manifold CFD.pdf
 │
 ├── fuel-manifold/
-│ └── star-ccm/
-│   ├── fuelmanifold.sim
-│   └── loxmanifold.sim
+│ ├── fuelmanifold.sim
+│ └── loxmanifold.sim
 │
 └── figures/
-  ├── plots/
-  │ ├── 
-  │ └──
-  └── scenes/
-    ├── thetaframe.png
-    ├── scalarvmag.png
-    └── velvectors.png
+  ├── elementmfrs.png
+  ├── thetaframe.png
+  ├── scalarvmag.png
+  └── velvectors.png
 
 
 ```
