@@ -1,6 +1,6 @@
 ## CFD Analysis on a KeroLOX Swirl Injector Manifold
 ![Status](https://shields.io/badge/status-complete-brightgreen)
-![Star-CCM+](https://img.shields.io/badge/Simcenter_Star--CCM%2B-2606-blue)
+![Star-CCM+](https://img.shields.io/badge/Simcenter_Star--CCM%2B-2602-blue)
 
 ### Background
 Computation Fluid Dynamics (CFD) is a powerful commercial tool that supports all varieties of fluid flow simulations. This project includes forced internal flow simulations within fuel coaxial swirl injector manifold used onboard liquid rockets to highlight the capabilities of CFD.
