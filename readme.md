@@ -1,4 +1,4 @@
-## CFD Analysis on a KeroLOX Swirl Injector Manifold
+## CFD Analysis on an RP-1 Coaxial Swirl Injector Manifold
 ![Status](https://shields.io/badge/status-complete-brightgreen)
 ![Star-CCM+](https://img.shields.io/badge/Simcenter_Star--CCM%2B-2602-blue)
 
