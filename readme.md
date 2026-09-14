@@ -3,7 +3,7 @@
 ![Star-CCM+](https://img.shields.io/badge/Simcenter_Star--CCM%2B-2606-blue)
 
 ### Background
-Computation Fluid Dynamics (CFD) is a powerful commercial tool that supports all varieties of fluid flow simulations. This project includes forced internal flow simulations within fuel and KeroLOX swirl injector manifolds used onboard liquid rockets to highlight the capabilities of CFD.
+Computation Fluid Dynamics (CFD) is a powerful commercial tool that supports all varieties of fluid flow simulations. This project includes forced internal flow simulations within fuel coaxial swirl injector manifold used onboard liquid rockets to highlight the capabilities of CFD.
 
 ---
 
@@ -16,32 +16,32 @@ Sanity checks include a reasonable dP, continuity and momentum, and reasonable v
 
 ### Repo Structure
 ```
-kerolox-injector-cfd
+fuel-coax-injector-cfd
 │
 ├── README.md
+├── presentation.pdf
 │
 ├── fuel-manifold/
-│ └── star-ccm/ 
-│   ├── 
-│   └── 
-│
-├── kerolox-swirl-manifold/
 │ └── star-ccm/
-│   ├── 
-|   └── 
+│   ├── fuelmanifold.sim
+│   └── loxmanifold.sim
 │
 └── figures/
   ├── plots/
   │ ├── 
   │ └──
   └── scenes/
+    ├── thetaframe.png
+    ├── scalarvmag.png
+    └── velvectors.png
 
 
 ```
 
 ---
 
-### Assumptions / Limitations
+### Steps
+## Import Part
 
 ---
 
